@@ -1,4 +1,4 @@
-import Contador from './components/contador'; 
+import contador from './components/contador'; 
 import './App.css';
 
 export default function App() {
